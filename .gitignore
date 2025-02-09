@@ -1,0 +1,22 @@
+# Виртуальные окружения
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Папки кэша Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи
+*.log
+
+# Файлы базы данных
+*.sqlite3
+
+# Папки временных файлов
+.vscode/
+.DS_Store
